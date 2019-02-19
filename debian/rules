@@ -3,7 +3,7 @@
 PKG = $(word 2,$(shell dpkg-parsechangelog | grep Source))
 VERSION ?= $(shell cat VERSION)
 URL_DOWNLOAD = "https://github.com/kvesteri/sqlalchemy-continuum/archive/${VERSION}.tar.gz"
-export PYBUILD_NAME=python-sqlalchemy-continuum
+export PYBUILD_NAME=sqlalchemy-continuum
 export PYBUILD_DISABLE=test
 export PYBUILD_SYSTEM=distutils
 
