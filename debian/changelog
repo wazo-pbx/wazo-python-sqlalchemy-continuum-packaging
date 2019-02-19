@@ -1,4 +1,10 @@
-wazo-python-sqlalchemy-continuum-packaging (1.3.7-1~wazo1) wazo-dev-stretch; urgency=medium
+wazo-python-sqlalchemy-continuum-packaging (1.3.7-2) wazo-dev-stretch; urgency=medium
+
+  * Fix PYBUILD_NAME
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 18 Feb 2019 20:32:00 -0400
+
+wazo-python-sqlalchemy-continuum-packaging (1.3.7-1) wazo-dev-stretch; urgency=medium
 
   * Initial release
 
