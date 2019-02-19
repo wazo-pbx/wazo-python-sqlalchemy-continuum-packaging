@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: sqlalchemy-continuum
+Source: https://github.com/kvesteri/sqlalchemy-continuum.git
+
+Files: *
+Copyright: 2012 Konsta Vesterinen
+License: MIT
+
+Files: debian/*
+Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
