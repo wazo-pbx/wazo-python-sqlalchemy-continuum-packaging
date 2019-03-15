@@ -4,7 +4,7 @@ Source: https://github.com/kvesteri/sqlalchemy-continuum.git
 
 Files: *
 Copyright: 2012 Konsta Vesterinen
-License: MIT
+License: BSD-3-clause
 
 Files: debian/*
 Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
